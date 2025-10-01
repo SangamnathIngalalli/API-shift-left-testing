@@ -1,0 +1,4 @@
+com\api\testing\pact\PostsPactTest.class
+com\api\testing\tests\PostsIntegrationTest.class
+com\api\testing\tests\TestUtils.class
+com\api\testing\wiremock\PostsWireMockTest.class
